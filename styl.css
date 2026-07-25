@@ -3,3 +3,31 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.footer-content{
+    height: 450px;
+    flex-wrap: wrap;
+    max-width: 1770px;
+    background-color:#245852;
+    padding: 50px 60px;
+}
+.footer-title{
+    color: #fff;
+    font-size: 30px;
+    font-weight: 600;
+    margin-bottom: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+.footer-link{
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+    text-decoration: none;
+    font-size: 16px;
+    margin-bottom: 10px;
+    display: block;
+}
+.footer-links{
+    list-style: none;
+    padding: 0;
+    gap: 10px;
+}
