@@ -3,3 +3,44 @@
     padding: 0;
     box-sizing: border-box;
 }
+.hero{
+    background-image: url(./BG-img.png);
+    width: 100%;
+    padding-left: 275px;
+    padding-top: 175px;
+    padding-bottom: 336px;
+    background-size: cover;
+
+
+}
+.hero-list{
+max-width: 440px;
+}
+.hero-title{
+    font-family: Georgia;
+font-weight: 700;
+font-size: 65px;
+line-height: 100%;
+max-width: 440px;
+margin-bottom: 30px;
+color: #01996D;
+}
+.hero-desc{
+    font-family: Lato;
+font-weight: 400;
+font-size: 20px;
+line-height: 157%;
+max-width: 420px;
+margin-bottom: 25px;
+color: #484848;
+}
+.hero-btn{
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #01996D;
+    border: none;
+    border-radius: 4px;
+    color: #FFFFFF;
+}
